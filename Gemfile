@@ -36,7 +36,7 @@ end
 
 group :development do
   gem 'xray-rails'
-  gem 'spree_skins', :path => '../spree_skins'
+#  gem 'spree_skins', :path => '../spree_skins'
 end
 
 # Use ActiveModel has_secure_password
