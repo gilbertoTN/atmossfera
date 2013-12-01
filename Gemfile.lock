@@ -1,4 +1,13 @@
 GIT
+  remote: https://github.com/gilbertoTN/spree_skins.git
+  revision: f9f3f9ecc0898df6e2ce5fbf3809ca824cedac97
+  specs:
+    spree_skins (2.1)
+      spree_backend (~> 2.1)
+      spree_core (~> 2.1)
+      spree_frontend (~> 2.1)
+
+GIT
   remote: https://github.com/spree/spree_auth_devise.git
   revision: 3a9e16834734b8f56ed515d75fe99d2dd5e79dd9
   branch: 2-1-stable
@@ -19,14 +28,6 @@ GIT
     spree_gateway (2.1.0.beta)
       savon (~> 1.2)
       spree_core (~> 2.1)
-
-PATH
-  remote: ../spree_skins
-  specs:
-    spree_skins (2.1)
-      spree_backend (~> 2.1)
-      spree_core (~> 2.1)
-      spree_frontend (~> 2.1)
 
 GEM
   remote: https://rubygems.org/
